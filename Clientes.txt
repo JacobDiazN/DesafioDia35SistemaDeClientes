@@ -1,0 +1,18 @@
+RUN: 12345678-9
+Nombre: Juan
+Apellido: Perez
+Años como cliente: 5
+Categoría: ACTIVO
+
+RUN: 98765432-1
+Nombre: Maria
+Apellido: Gonzalez
+Años como cliente: 2
+Categoría: ACTIVO
+
+RUN: 23456789-0
+Nombre: Pedro
+Apellido: Rodriguez
+Años como cliente: 3
+Categoría: INACTIVO
+
